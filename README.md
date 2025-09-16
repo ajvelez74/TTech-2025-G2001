@@ -1,4 +1,4 @@
-# TTech-2025-G2001
+# Proyecto AV School - Repositorio: TTech-2025-G2001
 
 Este proyecto se implementa en el marco de la iniciativa Talento Tech del Ministerio de las TIC (http://www.mintic.gov.co)
 
